@@ -1,0 +1,352 @@
+[01-Mar-2022 12:20:49 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home/yahocoin/j.yahocoin.com/vendor/composer/platform_check.php on line 24
+[01-Mar-2022 12:21:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:21:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:22:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:22:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:26:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:30:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:30:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:30:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:30:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:32:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:32:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:32:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:32:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:32:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:32:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:32:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:32:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:32:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:32:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:32:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:32:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:33:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:33:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:33:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:36:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:36:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:36:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:37:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:37:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:37:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:37:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:40:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:40:36 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home/yahocoin/j.yahocoin.com/vendor/composer/platform_check.php on line 24
+[01-Mar-2022 12:40:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:42:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[01-Mar-2022 12:43:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include()
+#1 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(480): include('/home/yahocoin/...')
+#5 /home/yahocoin/j.yahocoin.com/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/yahocoin/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): s in /home/yahocoin/j.yahocoin.com/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
